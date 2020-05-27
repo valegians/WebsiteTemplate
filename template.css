@@ -11,8 +11,9 @@ h2 { font-family:'Helvetica', 'Arial', sans-serif; font-size:24px}
 h3 { font-family:'Helvetica', 'Arial', sans-serif; font-size:18px}
 h4 { font-family:'Helvetica', 'Arial', sans-serif; font-size:16px}
 h5 { text-align:center; font-family:'Helvetica', 'Arial', sans-serif; font-size:24px}
+h6 { text-align:center; font-family:'Helvetica', 'Arial', sans-serif; font-size:16px}
 
-p,h1,h2,h3,h4,h5,pre { margin:10px 10px 10px 10px;}
+p,h1,h2,h3,h4,h5,h6,pre { margin:10px 10px 10px 10px;}
 
 hr { color: grey; width:90%; height:0.1px;}
 
